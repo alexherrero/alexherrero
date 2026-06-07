@@ -2,7 +2,7 @@
 
 > **Security-minded engineering leader — building the backbone that makes AI agents reliable, safe, and genuinely useful.**
 
-What I'm building toward is an AI agent that's *genuinely useful* — one you can hand real work and trust the result. A decade of making large systems trustworthy — building capabilities for and securing device fleets, shipping agentic AI at scale, and now building features for AI that keeps customers safe at **Google Cloud SecOps** — taught me that usefulness lives or dies on the backbone underneath: **agentic memory** so it gains experience, **verification** so it stays right, **guardrails** so it stays safe. I build that backbone and lead teams to adopt it — because *"useful enough to depend on"* and *"safe"* are the same problem.
+What I'm building toward is an AI agent that's *genuinely useful* — one you can hand real work and trust the result. Making large systems trustworthy — building capabilities for and securing device fleets, shipping agentic AI at scale, and now building features for AI that keeps customers safe at **Google Cloud SecOps** — taught me that usefulness lives or dies on the backbone underneath: **agentic memory** so it gains experience, **verification** so it stays right, **guardrails** so it stays safe. I build that backbone and lead teams to adopt it — because *"useful enough to depend on"* and *"safe"* are the same problem.
 
 I spend a lot of my own time in personal R&D because it's important that we get these things right, a few examples are below.
 
