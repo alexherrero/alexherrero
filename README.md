@@ -1,51 +1,54 @@
 # Alex Herrero
-`Software Engineering Manager | Building great things.`
 
-> "From a kid who got in trouble for taking things apart, to a Software Engineer and Engineering Manager at Google, I have always loved figuring out how things work and how to make great things."
+> **Security-minded engineering leader — building the backbone that makes AI agents reliable, safe, and genuinely useful.**
 
-I lead engineering teams and build software that ties together product features, production-scale, artificial intelligence and security. I believe tech should be intuitive and easy, which usually means it should be simpler. I am great at seeing and understanding complex systems and seeing how to make them simpler and more intuitive. I see artificial intelligence as an opportunity to remove systemic friction, boilerplate drudgery, and cognitive overhead so that technology becomes an extension of human creativity.
+What I'm building toward is an AI agent that's *genuinely useful* — one you can hand real work and trust the result. A decade of making large systems trustworthy — building capabilities for and securing device fleets, shipping agentic AI at scale, and now building features for AI that keeps customers safe at **Google Cloud SecOps** — taught me that usefulness lives or dies on the backbone underneath: **agentic memory** so it gains experience, **verification** so it stays right, **guardrails** so it stays safe. I build that backbone and lead teams to adopt it — because *"useful enough to depend on"* and *"safe"* are the same problem.
+
+I spend a lot of my own time in personal R&D because it's important that we get these things right, a few examples are below.
 
 ---
 
 ## 🧠 Things I care about
 
-* **Usability over Complexity:** My background in systems infrastructure taught me that the most resilient systems are the ones that are easiest to use. Good security doesn't rely on artificial friction, and asking someone to approve rarely makes things safer; security comes from engineering automated, intelligent boundaries that automatically self-correct, and guide users to do what is safe naturally and intuitively, making doing the safer thing easy.
-* **Unlocking Creativity:** Syntax boilerplate and environment configuration is boring. By removing repetitive engineering, we make room for human creativity—allowing engineers to spend more time creating. Engineering can be art and it should be fun!
-* **Making systems more 'experienced':** I am interested in self-reinforced, automated learning systems that remember and can gain experience. I want agents to become more than that 'junior engineer' they can be today. I want them to remember that last pair programming session they were in with you and to be better the next time you work on a project. That requires persistent memory that works more like we do, and makes it possible to have a truly useful assistant. When I think about what natural assistants are like, I imagine the kind of interactions you see in the movies, where you can just talk with your agent and it can manage your projects, files and your digital knowledge naturally. That makes engineering less about the code and brings out the best creativity in us all.
+* **Usability over complexity:** The most resilient systems are often also easy to use. Good security doesn't come from artificial friction — asking someone to approve rarely makes anything safer. It comes from engineering intelligent boundaries that self-correct and make the safe path the natural one.
+* **Unlocking creativity:** Boilerplate and config are boring. Remove the repetitive engineering and you make room for the human kind — engineers spend their time *creating*. Engineering can be art, and it should be fun!
+* **Systems that gain experience:** I'm interested in self-reinforcing systems that *remember* — an agent that's more than today's eager junior engineer, that recalls the last session you paired on and is better in the next. That takes persistent memory working more like ours does, and it's what turns an assistant into one that's genuinely useful.
 
 ---
 
-## 🛠️ Some of my recent projects
+## 🛠️ What I'm building
 
-I've been working on projects that integrate with `AGENTS.md`-aware environments, Claude Code, and Antigravity in particular. I want these to work more seamlessly with me every day.
+For `AGENTS.md`-aware environments — **Claude Code** and **Antigravity** in particular — built to get more useful every day we work together.
 
-### 📂 [Agent M // agentic-harness](https://github.com/alexherrero/agentic-harness)
-Think of Agent M as the structural backend harness you wished you had—part Star Trek Computer, part J.A.R.V.I.S.-level contextual autonomy, engineered to manage your projects, memory, persistent knowledge and complex projects seamlessly across any modern agent surface, gaining experience and self-improving as it goes.
+### 📂 [Agent M](https://github.com/alexherrero/agentm) — the backbone
+The memory and structure that turn a capable model into an agent you'd actually depend on: persistent, vault-backed **memory** that learns from you and self-improves, a phase-gated workflow that keeps it on rails, and on-disk state so a fresh session *continues* instead of starting blank. It carries your projects, files, and knowledge across any agent surface — and gets better the more you work together.
 
-### 🦗 [Crickets // agent-toolkit](https://github.com/alexherrero/agent-toolkit)
-Inspired by the iconic, hyper-compact firearm from Men in Black, Crickets is a tactical suite of agent primitives and targeted tools engineered to punch far above their weight. As the execution engine behind Agent M, it can be deployed as a unified pairing or standalone for maximum operational impact from a minimal footprint.
+### 🦗 [Crickets](https://github.com/alexherrero/crickets) — the trust layer
+Small primitives that punch far above their weight. Native plugins for **Claude Code** and **Antigravity** that arm an agent with production-grade, dev-lifecycle capabilities — today **kill-switches**, fresh-context **evaluators**, **PII guardrails**, and dependency-PR repair; working toward phase-gated workflows, testing, and code review. The execution engine behind Agent M, and the layer that makes it safe enough to actually rely on.
 
-### 🌲 [Sherwood // automated-trading](https://github.com/alexherrero/sherwood)
-Finance often treats Artificial intelligence as something to be careful with, after all, they have successfully used it's precursor ML, for years. I am interested in pushing the boundaries of how AI can change trading and make it more accessible to every day tech enthusiasts. My testbed for this ideas is Sherwood, a self-hosted, automated trading engine capable of tracking the markets and crypto at the speed of AI. I want to see how some smart AI use can help a user make consistent returns that aren't 'get rich quick' but that are better than market and safer than the average trade. It combines an isolated predictive-planning subsystem with a mandatory human-in-the-loop gatekeeper for execution safety. *v2 currently in active design.*
+### 🌲 [Sherwood](https://github.com/alexherrero/sherwood) — an AI-first trading engine
+My applied-AI testbed for financial markets: what does a trading engine look like built *AI-first*? A self-hosted engine pairing an isolated predictive-planning subsystem with a mandatory human-in-the-loop gate for execution safety — seeing how far smart, *safe* AI can go when there's real money on the line. *(v2 in active design.)*
 
-### 💻 [Dev-Setup // dev-setup](https://github.com/alexherrero/dev-setup)
-A per-machine bootstrap script enforcing deterministic, opinionated, and highly portable development environment conventions. This is how I tie together my tools so I can make great things.
+### 💻 [Dev-Setup](https://github.com/alexherrero/dev-setup)
+Per-machine bootstrap for deterministic, portable dev environments — how I tie my tools together so I can make great things.
 
 ---
 
 ## 💼 What I'm good at
 
 ```text
-[ LEADERSHIP ]     Growing and making Teams more efficient / Cross-Functional Strategy / Mentorship and Career Growth
-[ PRODUCT ]        User facing features / Capabilities that make them useful / Simpler, more intuitive products
-[ PLATFORMS ]      Cross Platform Software and Management / Cryptography / Security and Threat Intelligence
-[ INFRASTRUCTURE ] Google Cloud Platform (GCP) / Zero-Trust Boundaries / Automated CI/CD / Safe, frequent rollouts
-[ LANGUAGES ]      API / Golang / C++ / PowerShell / SQL / gRPC
+[ LEADERSHIP ]   Building teams + making them efficient / cross-functional strategy / mentorship + career growth
+[ PRODUCT ]      User-facing features / making capabilities genuinely useful / simpler, more intuitive products
+[ AI / AGENTS ]  Agent harnesses / agentic memory / verification + guardrails / human-in-the-loop autonomy
+[ SECURITY ]     Threat detection / cryptography / zero-trust boundaries / safe-by-default design
+[ PLATFORMS ]    Cross-platform software at fleet scale / GCP / automated CI/CD / safe, frequent rollouts
+[ LANGUAGES ]    Go / C++ / PowerShell / SQL / gRPC
 ```
 
 ---
 
-## 📬 How to Find me
+## 📬 Find me
 
+* **LinkedIn:** [alex-m-herrero](https://www.linkedin.com/in/alex-m-herrero/)
+* **Blog:** *coming soon* — writing on agent reliability, memory, and verification
 * **GitHub:** [@alexherrero](https://github.com/alexherrero)
-* **LinkedIn:** [linkedin/alex-m-herrero](https://www.linkedin.com/in/alex-m-herrero/)
