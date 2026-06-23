@@ -50,5 +50,5 @@ Per-machine bootstrap for deterministic, portable dev environments — how I tie
 ## 📬 Find me
 
 * **LinkedIn:** [alex-m-herrero](https://www.linkedin.com/in/alex-m-herrero/)
-* **Blog:** *coming soon* — writing on agent reliability, memory, and verification
+* **Blog:** [alexherrero.dev](https://alexherrero.dev) — writing on agent reliability, memory, and verification
 * **GitHub:** [@alexherrero](https://github.com/alexherrero)
